@@ -9,9 +9,6 @@ I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I
 - :monocle_face: [Weibo](https://weibo.com/wmp231316)
 - :rocket: Do whatever you like !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhelan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuhelan&repo=spring)](https://github.com/chuhelan/spring)
-
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=chuhelan">
     <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @crloscuesta on Twitter" title="Follow @crloscuesta on Twitter">
@@ -22,3 +19,6 @@ I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I
   </a>
 </p>
  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhelan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuhelan&repo=spring)](https://github.com/chuhelan/spring
