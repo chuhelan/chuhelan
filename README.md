@@ -6,7 +6,6 @@ I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I
 
 
 - 📫 How to reach me: [chuhelan@163.com](mailto:chuhelan@163.com)
-- :monocle_face: [Weibo](https://weibo.com/wmp231316)
 - :rocket: Do whatever you like !
 
 <p>
