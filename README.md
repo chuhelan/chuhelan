@@ -19,5 +19,5 @@ I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I
 </p>
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhelan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuhelan&repo=spring)](https://github.com/chuhelan/spring)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhelan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuhelan&repo=spring)](https://github.com/chuhelan/spring) -->
