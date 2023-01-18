@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ### Hi I'm [chuhelan](https://www.chuhelan.com) 👋
 
 Aside from coding I enjoy writing technical things [at my blog](https://www.chuhelan.com) ✍️
@@ -18,6 +19,6 @@ I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I
   </a>
 </p>
  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhelan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuhelan&repo=dotchat_server)](https://github.com/chuhelan/dotchat_server)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chuhelan)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhelan&layout=compact)](https://github.com/chuhelan)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=chuhelan&theme=nord)](https://github.com/chuhelan)  
