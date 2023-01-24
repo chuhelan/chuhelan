@@ -2,12 +2,11 @@
 
 ### Hi I'm [chuhelan](https://www.chuhelan.com) 👋
 
- <div> <img src="https://metrics.lecoq.io/chuhelan"></div>
+<div> <img src="https://metrics.lecoq.io/chuhelan"></div>
 
 Aside from coding I enjoy writing technical things [at my blog](https://www.chuhelan.com) ✍️
 
 I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I'm a coding passionate focused on **Java**. Interested in design, tech and **OpenSource** ❤️
-
 
 - 📫 How to reach me: [chuhelan@163.com](mailto:chuhelan@163.com)
 - :rocket: Do whatever you like !
@@ -29,7 +28,3 @@ I'm a student based in **China** :fire:, studying in Nanjing Jiangsu Province. I
 </p>
  
 </div>
-
-
- 
- 
